@@ -1,0 +1,36 @@
+style.css
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    background-color: lightyellow;
+    color: skyblue;
+    font-size: xx-large;
+    margin: 25px auto;
+}
+
+button{
+    background-color: red;
+    color: whitesmoke;
+    font-size: xx-large;
+    border-radius: 15px;
+    margin-left: 500px;
+}
+
+button:hover{
+    background-color: white;
+    color: green;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+.card {
+    width: 18rem;
+}
+
+p{
+    font-size: large;
+}
+
